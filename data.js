@@ -1,4 +1,4 @@
-exports.summary = {
+var summary = {
   list:[
     { value: 'lp', label: 'Than last period' },
     { value: 'lw', label: 'Than last week' },
@@ -12,7 +12,7 @@ exports.summary = {
   trendValue:"23.3"
 };
 
-exports.o = [
+var o = [
   { value: 'lp', label: 'Than last period' },
   { value: 'lw', label: 'Than last week' },
   { value: 'lm', label: 'Than last month' },
