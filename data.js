@@ -1,4 +1,4 @@
-var summary = {
+{
   list:[
     { value: 'lp', label: 'Than last period' },
     { value: 'lw', label: 'Than last week' },
@@ -10,11 +10,4 @@ var summary = {
   value:"3,580",
   trendIcon:"fa fa-chevron-circle-up",
   trendValue:"23.3"
-};
-
-var o = [
-  { value: 'lp', label: 'Than last period' },
-  { value: 'lw', label: 'Than last week' },
-  { value: 'lm', label: 'Than last month' },
-  { value: 'ly', label: 'Than last year' }
-];
+}
