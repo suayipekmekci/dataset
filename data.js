@@ -5,6 +5,7 @@
     { "value": "lm", "label": "Than last month" },
     { "value": "ly", "label": "Than last year" }
   ],
+  "selectedid":"ly",
   "iconName":"fa fa-twitter",
   "name":"Tweets",
   "value":"3,580",
